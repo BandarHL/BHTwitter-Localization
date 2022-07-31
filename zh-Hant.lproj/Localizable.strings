@@ -82,7 +82,7 @@
 "COPY_PROFILE_INFO_OPTION_DETAIL_TITLE" = "在用戶個人檔案頁面新增功能按鈕，讓您複製您想要的資訊";
 
 "TWEET_TO_IMAGE_OPTION_TITLE" = "推文儲存為圖片";
-"TWEET_TO_IMAGE_OPTION_DETAIL_TITLE" = "將推文以圖片匯出\n透過長按分享按鈕";
+"TWEET_TO_IMAGE_OPTION_DETAIL_TITLE" = "透過長按分享按鈕\n將推文以圖片匯出";
 
 "HIDE_SPACE_OPTION_TITLE" = "隱藏 spaces bar（例：空間音訊）";
 
