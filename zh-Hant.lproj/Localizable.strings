@@ -49,7 +49,7 @@
 "VOICE_OPTION_DETAIL_TITLE" = "在私人訊息中啟用語音";
 
 "VIDEO_ZOOM_OPTION_TITLE" = "影片縮放";
-"VIDEO_ZOOM_OPTION_DETAIL_TITLE" = "對著影片雙擊可以縮放";
+"VIDEO_ZOOM_OPTION_DETAIL_TITLE" = "對著影片點兩下可以縮放";
 
 "NO_HISTORY_OPTION_TITLE" = "沒有搜尋紀錄";
 "NO_HISTORY_OPTION_DETAIL_TITLE" = "停止 Twitter 紀錄您的搜尋歷史";
@@ -97,7 +97,7 @@
 "UNDO_TWEET_OPTION_DETAIL_TITLE" = "發佈推文後，在限定的時間內可以收回";
 
 "READER_MODE_OPTION_TITLE" = "閱讀器模式";
-"READER_MODE_OPTION_DETAIL_TITLE" = "在線程中啟用閱讀器";
+"READER_MODE_OPTION_DETAIL_TITLE" = "在討論串中啟用閱讀器";
 
 "THEME_OPTION_TITLE" = "主題";
 "THEME_OPTION_DETAIL_TITLE" = "為您的 Twitter 選擇一種主題顏色\n（只有您自己才看的到）";
