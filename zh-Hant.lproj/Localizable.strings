@@ -87,7 +87,7 @@
 "HIDE_SPACE_OPTION_TITLE" = "隱藏 spaces bar（例：空間音訊）";
 
 "DISABLE_RTL_OPTION_TITLE" = "禁用 RTL";
-"DISABLE_RTL_OPTION_DETAIL_TITLE" = "在 RTL 語言中強制 Twitter 使用 LTL\n（重啟 Twitter 套用變更）";
+"DISABLE_RTL_OPTION_DETAIL_TITLE" = "在 RTL 語言中強制 Twitter 使用 LTR\n（重啟 Twitter 套用變更）";
 
 "ALWAYS_OPEN_SAFARI_OPTION_TITLE" = "總是使用 Safari 打開";
 "ALWAYS_OPEN_SAFARI_OPTION_DETAIL_TITLE" = "使用 Safari 或 預設的瀏覽器開啟網址";
