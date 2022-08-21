@@ -26,7 +26,7 @@
 
 "COPY_PROFILE_INFO_MENU_OPTION_1" = "Скопировать описание";
 "COPY_PROFILE_INFO_MENU_OPTION_2" = "Скопировать название";
-"COPY_PROFILE_INFO_MENU_OPTION_3" = "Скопировать @адрес"";
+"COPY_PROFILE_INFO_MENU_OPTION_3" = "Скопировать @адрес";
 "COPY_PROFILE_INFO_MENU_OPTION_4" = "Скопировать ссылку в описании";
 "COPY_PROFILE_INFO_MENU_OPTION_5" = "Скопировать местоположение";
 
@@ -76,7 +76,7 @@
 "AUTO_HIGHEST_LOAD_OPTION_DETAIL_TITLE" = "Позволяет загружать контент в максимально высоком качестве";
 
 "DISABLE_SENSITIVE_TWEET_WARNINGS_OPTION_TITLE" = "Контент для взрослых";
-"TRUSTED_FRIENSS_OPTION_TITLE" = Близкий круг в Twitter";
+"TRUSTED_FRIENSS_OPTION_TITLE" = "Близкий круг в Twitter";
 
 "COPY_PROFILE_INFO_OPTION_TITLE" = "Копировать описание";
 "COPY_PROFILE_INFO_OPTION_DETAIL_TITLE" = "Добавляет кнопку, позволяющую копировать описание профиля";
