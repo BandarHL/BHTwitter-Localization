@@ -43,6 +43,12 @@
 "HIDE_TOPICS_OPTION_TITLE" = "トピックを消す";
 "HIDE_TOPICS_OPTION_DETAIL_TITLE" = "タイムラインから全てのトピックツイートを削除します。";
 
+"HIDE_WHO_FOLLOW_OPTION" = "おすすめアカウントを消す";
+"HIDE_WHO_FOLLOW_OPTION_DETAIL_TITLE" = "プロフィールの｢おすすめアカウント｣を削除します。";
+
+"HIDE_TOPICS_TO_FOLLOW_OPTION" = "トピックをフォローするセクションを消す";
+"HIDE_TOPICS_TO_FOLLOW_OPTION_DETAIL_TITLE" = "プロフィールのトピックをフォローするセクションを削除します。";
+
 "DISABLE_VIDEO_LAYER_CAPTIONS_OPTION_TITLE" = "ビデオレイヤーのキャプションを無効化する";
 
 "VOICE_OPTION_TITLE" = "音声機能の有効化";
@@ -118,9 +124,9 @@
 
 "DEBUG_SECTION_HEADER_TITLE" = "デバッグ";
 "FLEX_OPTION_TITLE" = "FLEXの有効化";
-"FLEX_OPTION_DETAIL_TITLE" = "Show FLEX on twitter app.";
+"FLEX_OPTION_DETAIL_TITLE" = "TwitterアプリでFLEXを表示";
 
-"LEGAL_SECTION_HEADER_TITLE" = "Legal notices";
+"LEGAL_SECTION_HEADER_TITLE" = "法的通知";
 "LEGAL_BUTTON_TITLE" = "Acknowledgements";
 
 "DEVELOPER_SECTION_HEADER_TITLE" = "開発者";
