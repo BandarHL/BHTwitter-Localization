@@ -43,6 +43,12 @@
 "HIDE_TOPICS_OPTION_TITLE" = "Hide topics tweets";
 "HIDE_TOPICS_OPTION_DETAIL_TITLE" = "Remove all topics tweets from the timeline.";
 
+"HIDE_WHO_FOLLOW_OPTION" = "Hide Who to follow section";
+"HIDE_WHO_FOLLOW_OPTION_DETAIL_TITLE" = "Hide Who to follow section in Profiles";
+
+"HIDE_TOPICS_TO_FOLLOW_OPTION" = "Hide Topics to follow section";
+"HIDE_TOPICS_TO_FOLLOW_OPTION_DETAIL_TITLE" = "Hide Topics to follow section in Profiles";
+
 "DISABLE_VIDEO_LAYER_CAPTIONS_OPTION_TITLE" = "Disable video layer captions";
 
 "VOICE_OPTION_TITLE" = "Voice feature";
