@@ -43,6 +43,12 @@
 "HIDE_TOPICS_OPTION_TITLE" = "إخفاء التغريدات الموضوعية";
 "HIDE_TOPICS_OPTION_DETAIL_TITLE" = "إزالة جميع التغريدات الموضوعية من التايم لاين ";
 
+"HIDE_WHO_FOLLOW_OPTION" = "إخفاء افتراحات المتابعة";
+"HIDE_WHO_FOLLOW_OPTION_DETAIL_TITLE" = "إخفاء افتراحات المتابعة في الملفات الشخصية";
+
+"HIDE_TOPICS_TO_FOLLOW_OPTION" = "إخفاء مواضيع للمتابعة";
+"HIDE_TOPICS_TO_FOLLOW_OPTION_DETAIL_TITLE" = "إخفاء مواضيع للمتابعة في الملفات الشخصية";
+
 "DISABLE_VIDEO_LAYER_CAPTIONS_OPTION_TITLE" = "تعطيل وصف الفيديو";
 
 "VOICE_OPTION_TITLE" = "الملاحظة الصوتية";
