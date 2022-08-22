@@ -43,6 +43,12 @@
 "HIDE_TOPICS_OPTION_TITLE" = "Скрыть рекомендации";
 "HIDE_TOPICS_OPTION_DETAIL_TITLE" = "Скрывает рекомендуемые твиты с ленты новостей";
 
+"HIDE_WHO_FOLLOW_OPTION" = "Скрыть секцию «Кого читать»";
+"HIDE_WHO_FOLLOW_OPTION_DETAIL_TITLE" = "Скрывает секцию «Кого читать» в профилях пользователей";
+
+"HIDE_TOPICS_TO_FOLLOW_OPTION" = "Скрыть секцию «Темы для чтения»";
+"HIDE_TOPICS_TO_FOLLOW_OPTION_DETAIL_TITLE" = "Скрывает секцию «Темы для чтения» в профилях пользователей";
+
 "DISABLE_VIDEO_LAYER_CAPTIONS_OPTION_TITLE" = "Отключить описания видео";
 
 "VOICE_OPTION_TITLE" = "Голосовые";
