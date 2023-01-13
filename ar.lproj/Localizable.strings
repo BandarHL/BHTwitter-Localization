@@ -98,6 +98,9 @@
 "ALWAYS_OPEN_SAFARI_OPTION_TITLE" = "فتح الروابط في المتصفح";
 "ALWAYS_OPEN_SAFARI_OPTION_DETAIL_TITLE" = "إجبار التطبيق على فتح الروابط في المتصفح الإفتراضي .";
 
+"STRIP_URL_TRACKING_PARAMETERS_TITLE" = "حذف التتبع من الروابط";
+"STRIP_URL_TRACKING_PARAMETERS_DETAIL_TITLE" = "حذف معلومات التتبع من رابط التغريدة عند نسخها ";
+
 "TWITTER_BLUE_SECTION_HEADER_TITLE" = "Twitter blue مزايا";
 "UNDO_TWEET_OPTION_TITLE" = "التراجع عن التغريد";
 "UNDO_TWEET_OPTION_DETAIL_TITLE" = "التراجع عن التغريد بعد إرسالها .";
@@ -135,6 +138,8 @@
 "HIDE_VIEW_COUNT_OPTION_DETAIL_TITLE" = "إزالة عدد المُشاهدات من التغريدة";
 
 "SHOW_TWEET_SOURCE_TITLE" = "إظهار مصدر التغريدة ";
+
+"FORCE_TWEET_FULL_FRAME_TITLE" = "إجبار تويتر على إستخدام الإطار الكامل للصور";
 
 "FONT_OPTION_TITLE" = "تفعيل تغيير خط التطبيق";
 "FONT_OPTION_DETAIL_TITLE" = "خيار لتفعيل تغيير خط تويتر";
