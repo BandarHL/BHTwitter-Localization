@@ -141,6 +141,8 @@
 
 "FORCE_TWEET_FULL_FRAME_TITLE" = "Force Twitter to use full frame for images";
 
+"CHANGE_TWITTER_BLUE_BADGE_COLOR_TITLE" = "Make Twitter Blue badge Green";
+
 "FONT_OPTION_TITLE" = "Enable changing font";
 "FONT_OPTION_DETAIL_TITLE" = "Option to allow changing Twitter font and show font picker.";
 
