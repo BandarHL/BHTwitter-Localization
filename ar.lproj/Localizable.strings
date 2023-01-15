@@ -141,6 +141,8 @@
 
 "FORCE_TWEET_FULL_FRAME_TITLE" = "إجبار تويتر على إستخدام الإطار الكامل للصور";
 
+CHANGE_TWITTER_BLUE_BADGE_COLOR_TITLE = "";
+
 "FONT_OPTION_TITLE" = "تفعيل تغيير خط التطبيق";
 "FONT_OPTION_DETAIL_TITLE" = "خيار لتفعيل تغيير خط تويتر";
 
