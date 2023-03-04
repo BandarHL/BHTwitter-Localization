@@ -136,7 +136,7 @@
 
 "FORCE_TWEET_FULL_FRAME_TITLE" = "Полноразмерные изображения";
 
-"DISABLE_IMMERSIVE_PLAYER_TITLE" = "Отлючить иммерсивный видеоплеер";
+"DISABLE_IMMERSIVE_PLAYER_TITLE" = "Отключить иммерсивный видеоплеер";
 "DISABLE_IMMERSIVE_PLAYER_DETAIL_TITLE" = "Отключает новый видеоплеер приложения (с эффектом погружения)";
 
 "FONT_OPTION_TITLE" = "Сменить шрифт";
