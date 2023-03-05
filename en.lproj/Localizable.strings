@@ -142,6 +142,8 @@
 "DISABLE_IMMERSIVE_PLAYER_TITLE" = "Disable Immersive player";
 "DISABLE_IMMERSIVE_PLAYER_DETAIL_TITLE" = "Disable the new video player of Twitter (Immersive Player)";
 
+"SHOW_SCOLL_INDICATOR_OPTION_TITLE" = "Show Scroll Bar";
+
 "FONT_OPTION_TITLE" = "Enable changing font";
 "FONT_OPTION_DETAIL_TITLE" = "Option to allow changing Twitter font and show font picker.";
 
