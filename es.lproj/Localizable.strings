@@ -144,6 +144,9 @@
 
 "SHOW_SCOLL_INDICATOR_OPTION_TITLE" = "Mostrar barra de desplazamiento";
 
+"ALWAYS_FOLLOWING_PAGE_OPTION_TITLE" = "Forzar sección Siguiendo";
+"ALWAYS_FOLLOWING_PAGE_OPTION_DETAIL_TITLE" = "Forzar a Twitter a utilizar siempre la sección Siguiendo del timeline cuando el usuario inicie la aplicación.";
+
 "FONT_OPTION_TITLE" = "Activar el cambio de fuente";
 "FONT_OPTION_DETAIL_TITLE" = "Opción para permitir cambiar la fuente de Twitter y mostrar el selector de fuentes";
 
