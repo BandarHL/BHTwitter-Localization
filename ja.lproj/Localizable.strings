@@ -88,7 +88,7 @@
 "COPY_PROFILE_INFO_OPTION_DETAIL_TITLE" = "プロフィールをコピーするボタンの追加";
 
 "TWEET_TO_IMAGE_OPTION_TITLE" = "ツイートを画像で保存";
-"TWEET_TO_IMAGE_OPTION_DETAIL_TITLE" = "ツイートを長押しすることで画像として保存できます。";
+"TWEET_TO_IMAGE_OPTION_DETAIL_TITLE" = "共有ボタンを長押しすることで画像として保存できます。";
 
 "HIDE_SPACE_OPTION_TITLE" = "スペースバーを消す";
 
