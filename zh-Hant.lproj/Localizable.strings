@@ -3,6 +3,7 @@
   BHTwitter
 */
 
+
 "BHTWITTER_SETTINGS_TITLE" = "BHTwitter";
 "BHTWITTER_SETTINGS_DETAIL" = "偏好設定";
 
@@ -175,3 +176,10 @@
 "CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_1" = "設定背景圖片";
 "CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_2" = "設定背景顏色";
 "CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_3" = "重新設定為預設值";
+
+"APP_ICON_TITLE" = "應用程式圖示";
+"APP_ICON_DETAIL_TITLE" = "為您的裝置選擇專屬的應用程式圖示，隨時可以更換。(僅適用於 JB 和 TrollStore 使用者)";
+"APP_ICON_NAV_TITLE" = "應用程式圖示";
+"APP_ICON_HEADER_TITLE" = "為您裝置的主畫面選擇自訂的應用程式圖示，隨時可以更換。";
+
+"FFMPEG_DOWNLOAD_OPTION_TITLE" = "使用 FFmpeg 下載";
