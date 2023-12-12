@@ -46,7 +46,7 @@
 "HIDE_WHO_FOLLOW_OPTION" = "Kimi takip etmeli bölümünü gizle";
 "HIDE_WHO_FOLLOW_OPTION_DETAIL_TITLE" = "Profillerden Kimi takip etmeli bölümünü gizler";
 
-HIDE_TOPICS_TO_FOLLOW_OPTION" = "Takip edilesi konular bölümü gizle";
+"HIDE_TOPICS_TO_FOLLOW_OPTION" = "Takip edilesi konular bölümü gizle";
 "HIDE_TOPICS_TO_FOLLOW_OPTION_DETAIL_TITLE" = "Profillerdeki Takip edilesi konular bölümü gizler";
 
 "DISABLE_VIDEO_LAYER_CAPTIONS_OPTION_TITLE" = "Video katmanı altyazılarını devre dışı bırak";
