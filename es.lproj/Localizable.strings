@@ -175,3 +175,10 @@
 "CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_1" = "Establecer imagen como fondo";
 "CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_2" = "Establecer color como fondo";
 "CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_3" = "Restablecer a predeterminado";
+
+"APP_ICON_TITLE" = "Iconos de la app";
+"APP_ICON_DETAIL_TITLE" = "Elige un icono de aplicación exclusivo para tu dispositivo. Cámbialo en cualquier momento. (Funciona solo para usuarios de JB y TrollStore).";
+"APP_ICON_NAV_TITLE" = "Icono de la app";
+"APP_ICON_HEADER_TITLE" = "Elige un icono de aplicación personalizado para la pantalla de inicio de tu dispositivo. Cámbialo en cualquier momento.";
+
+"FFMPEG_DOWNLOAD_OPTION_TITLE" = "Descarga con FFmpeg";
