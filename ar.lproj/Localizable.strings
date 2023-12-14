@@ -17,6 +17,7 @@
 "CANCEL_BUTTON_TITLE" = "إلغاء";
 
 "PROGRESS_DOWNLOADING_STATUS_TITLE" = "جاري التنزيل";
+"FETCHING_PROGRESS_TITLE" = "تحميل معلومات الفيديو";
 
 "CUSTOM_FONTS_NAVIGATION_BUTTON_TITLE" = "خط مخصص";
 "CUSTOM_FONTS_NAVIGATION_TITLE" = "اختر الخط";
@@ -136,6 +137,9 @@
 
 "HIDE_VIEW_COUNT_OPTION_TITLE" = "إخفاء عدد مُشاهدة التغريدة";
 "HIDE_VIEW_COUNT_OPTION_DETAIL_TITLE" = "إزالة عدد المُشاهدات من التغريدة";
+
+"HIDE_MARKBOOK_BUTTON_OPTION_TITLE" = "إخفاء زر العلامة المرجعيّة":
+"HIDE_MARKBOOK_BUTTON_OPTION_DETAIL_TITLE" = "إخفاء زر العلامة المرجعيّة من التغريدة .";
 
 "FORCE_TWEET_FULL_FRAME_TITLE" = "إجبار تويتر على إستخدام الإطار الكامل للصور";
 

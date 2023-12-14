@@ -17,6 +17,7 @@
 "CANCEL_BUTTON_TITLE" = "Cancel";
 
 "PROGRESS_DOWNLOADING_STATUS_TITLE" = "Downloading";
+"FETCHING_PROGRESS_TITLE" = "Fetching media information";
 
 "CUSTOM_FONTS_NAVIGATION_BUTTON_TITLE" = "Custom fonts";
 "CUSTOM_FONTS_NAVIGATION_TITLE" = "Choose Font";
@@ -136,6 +137,9 @@
 
 "HIDE_VIEW_COUNT_OPTION_TITLE" = "Hide view count";
 "HIDE_VIEW_COUNT_OPTION_DETAIL_TITLE" = "Remove view count from tweet";
+
+"HIDE_MARKBOOK_BUTTON_OPTION_TITLE" = "Hide bookmark button":
+"HIDE_MARKBOOK_BUTTON_OPTION_DETAIL_TITLE" = "Hide bookmark button from tweet";
 
 "FORCE_TWEET_FULL_FRAME_TITLE" = "Force Twitter to use full frame for images";
 
