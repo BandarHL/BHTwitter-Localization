@@ -138,7 +138,7 @@
 "HIDE_VIEW_COUNT_OPTION_TITLE" = "Hide view count";
 "HIDE_VIEW_COUNT_OPTION_DETAIL_TITLE" = "Remove view count from tweet";
 
-"HIDE_MARKBOOK_BUTTON_OPTION_TITLE" = "Hide bookmark button":
+"HIDE_MARKBOOK_BUTTON_OPTION_TITLE" = "Hide bookmark button";
 "HIDE_MARKBOOK_BUTTON_OPTION_DETAIL_TITLE" = "Hide bookmark button from tweet";
 
 "FORCE_TWEET_FULL_FRAME_TITLE" = "Force Twitter to use full frame for images";
