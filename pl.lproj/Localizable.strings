@@ -186,3 +186,8 @@
 "APP_ICON_HEADER_TITLE" = "Wybierz ikonę dla ekranu domowego telefonu. Zmień kiedy chcesz.";
 
 "FFMPEG_DOWNLOAD_OPTION_TITLE" = "Pobierz używając FFmpeg";
+
+"SELECT_URL_HOST_AFTER_COPY_OPTION_TITLE" = "Wybierz host URL po skopiowaniu tweeta";
+
+"UPLOAD_CUSTOM_VOICE_OPTION_TITLE" = "Prześlij ą głosówkę";
+"UPLOAD_CUSTOM_VOICE_OPTION_DETAIL_TITLE" = "Prześlij własne wideo pod postem po nagraniu głosówki.";
