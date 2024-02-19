@@ -141,7 +141,7 @@
 "HIDE_MARKBOOK_BUTTON_OPTION_TITLE" = "ブックマークボタンを非表示";
 "HIDE_MARKBOOK_BUTTON_OPTION_DETAIL_TITLE" = "ツイートからブックマークボタンを非表示にする";
 
-"FORCE_TWEET_FULL_FRAME_TITLE" = "Twitterで画像を全体表示するように強制する";
+"FORCE_TWEET_FULL_FRAME_TITLE" = "画像を全体表示するように強制する";
 
 "DISABLE_IMMERSIVE_PLAYER_TITLE" = "イマーシブプレーヤーを無効化";
 "DISABLE_IMMERSIVE_PLAYER_DETAIL_TITLE" = "Twitterの新しい動画プレーヤーを無効にします。(イマーシブプレーヤー)";
@@ -186,3 +186,8 @@
 "APP_ICON_HEADER_TITLE" = "アプリアイコンを選択してください。いつでも変更できます。";
 
 "FFMPEG_DOWNLOAD_OPTION_TITLE" = "FFmpegを使用してダウンロード";
+
+"SELECT_URL_HOST_AFTER_COPY_OPTION_TITLE" = "コピー後のツイートのURLホストを選択";
+
+"UPLOAD_CUSTOM_VOICE_OPTION_TITLE" = "カスタム音声をアップロード";
+"UPLOAD_CUSTOM_VOICE_OPTION_DETAIL_TITLE" = "ツイートに音声を録音した後、カスタムビデオをアップロードします。";
