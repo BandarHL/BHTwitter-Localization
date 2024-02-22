@@ -17,6 +17,7 @@
 "CANCEL_BUTTON_TITLE" = "İptal";
 
 "PROGRESS_DOWNLOADING_STATUS_TITLE" = "İndiriliyor";
+"FETCHING_PROGRESS_TITLE" = "Medya bilgileri alınıyor";
 
 "CUSTOM_FONTS_NAVIGATION_BUTTON_TITLE" = "Özel yazı tipleri";
 "CUSTOM_FONTS_NAVIGATION_TITLE" = "Yazı tipi seç";
@@ -32,7 +33,7 @@
 
 "MAIN_SECTION_HEADER_TITLE" = "BHX Tercihleri";
 "DOWNLOAD_VIDEOS_OPTION_TITLE" = "Videoları indirme";
-"DOWNLOAD_VIDEOS_OPTION_DETAIL_TITLE" = "Videolar Tweet'e ve video sekme çubuğunun içine eklenen düğmeyle indirilebilir.";
+"DOWNLOAD_VIDEOS_OPTION_DETAIL_TITLE" = "Videolar Gönderi'ye ve video sekme çubuğunun içine eklenen düğmeyle indirilebilir.";
 
 "DIRECT_SAVE_OPTION_TITLE" = "Doğrudan kaydetme";
 "DIRECT_SAVE_OPTION_DETAIL_TITLE" = "İndirdikten sonra videoyu doğrudan kaydet.";
@@ -85,7 +86,7 @@
 "TRUSTED_FRIENSS_OPTION_TITLE" = "X Çevresi özelliğini etkinleştir";
 
 "COPY_PROFILE_INFO_OPTION_TITLE" = "Profil bilgilerini kopyalama özelliğini etkinleştir";
-"COPY_PROFILE_INFO_OPTION_DETAIL_TITLE" = "Twitter profiline, istediğiniz bilgiyi kopyalamanıza izin veren yeni bir düğme ekler.";
+"COPY_PROFILE_INFO_OPTION_DETAIL_TITLE" = "X profiline, istediğin bilgiyi kopyalamana izin veren yeni bir düğme ekler.";
 
 "TWEET_TO_IMAGE_OPTION_TITLE" = "Gönderi'yi resim olarak kaydet";
 "TWEET_TO_IMAGE_OPTION_DETAIL_TITLE" = "Gönderi altındaki Paylaş düğmesine uzun basarak Gönderi'leri resim olarak dışa aktarabilirsin.";
@@ -93,10 +94,10 @@
 "HIDE_SPACE_OPTION_TITLE" = "Sohbet Odaları(Spaces) çubuğunu gizle";
 
 "DISABLE_RTL_OPTION_TITLE" = "Sağdan Sola'yı(RTL) Devre Dışı Bırak";
-"DISABLE_RTL_OPTION_DETAIL_TITLE" = "Twitter'ı Sağdan Sola olan bir dille kullanılırken Soldan Sağa kullanıma zorlar.\nDeğişiklikleri uygulamak için Twitter uygulamasını yeniden başlatın.";
+"DISABLE_RTL_OPTION_DETAIL_TITLE" = "X'i Sağdan Sola olan bir dille kullanılırken Soldan Sağa kullanıma zorlar.\nDeğişiklikleri uygulamak için X uygulamasını yeniden başlatın.";
 
 "ALWAYS_OPEN_SAFARI_OPTION_TITLE" = "Her zaman Safari'de aç";
-"ALWAYS_OPEN_SAFARI_OPTION_DETAIL_TITLE" = "Twitter'ı, URL'leri Safari'de veya varsayılan tarayıcınızda açmaya zorlar.";
+"ALWAYS_OPEN_SAFARI_OPTION_DETAIL_TITLE" = "X'i, URL'leri Safari'de veya varsayılan tarayıcınızda açmaya zorlar.";
 
 "STRIP_URL_TRACKING_PARAMETERS_TITLE" = "Linklerden takibi kaldır";
 "STRIP_URL_TRACKING_PARAMETERS_DETAIL_TITLE" = "Gönderi linkleri kopyalandığında takip parametrelerini çıkarır";
@@ -137,6 +138,9 @@
 "HIDE_VIEW_COUNT_OPTION_TITLE" = "Görüntüleme sayısını gizle";
 "HIDE_VIEW_COUNT_OPTION_DETAIL_TITLE" = "Gönderilerden görüntüleme sayısını kaldır";
 
+"HIDE_MARKBOOK_BUTTON_OPTION_TITLE" = "Yer işareti düğmesini gizle";
+"HIDE_MARKBOOK_BUTTON_OPTION_DETAIL_TITLE" = "Gönderideki yer işareti düğmesini gizler";
+
 "FORCE_TWEET_FULL_FRAME_TITLE" = "X'i resimler için tam çerçeve kullanmaya zorla";
 
 "DISABLE_IMMERSIVE_PLAYER_TITLE" = "Sürükleyici oynatıcıyı devre dışı bırak";
@@ -175,3 +179,15 @@
 "CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_1" = "Resmi arka plan olarak ayarla";
 "CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_2" = "Rengi arka plan olarak ayarla";
 "CUSTOM_DIRECT_BACKGROUND_ALERT_OPTION_3" = "Varsayılana sıfırla";
+
+"APP_ICON_TITLE" = "Uygulama simgeleri";
+"APP_ICON_DETAIL_TITLE" = "Cihazın için özel bir uygulama simgesi seç. İstediğin zaman değiştir. (Yalnızca JB ve TrollStore kullanıcıları için çalışır)";
+"APP_ICON_NAV_TITLE" = "Uygulama simgesi";
+"APP_ICON_HEADER_TITLE" = "Cihazının ana ekranı için özel bir uygulama simgesi seç. İstediğin zaman değiştir.";
+
+"FFMPEG_DOWNLOAD_OPTION_TITLE" = "FFmpeg (multimedya dosyalarını işleme aracı) kullanarak indir";
+
+"SELECT_URL_HOST_AFTER_COPY_OPTION_TITLE" = "Kopyalamadan sonra gönderinin URL barındırıcısını seçin";
+
+"UPLOAD_CUSTOM_VOICE_OPTION_TITLE" = "Özel ses yükle";
+"UPLOAD_CUSTOM_VOICE_OPTION_DETAIL_TITLE" = "Gönderiye ses kaydettikten sonra özel video yükle";
